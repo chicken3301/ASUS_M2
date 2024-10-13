@@ -1,4 +1,4 @@
-adb shell pm uninstall --user 0 com.asus.ia.asusapp #My Asus
+adb shell pm uninstall -k --user 0 com.asus.ia.asusapp #My Asus
 adb shell pm uninstall -k --user 0 com.facebook.katana 
 adb shell pm uninstall -k --user 0 com.facebook.system 
 adb shell pm uninstall -k --user 0 com.facebook.appmanager
