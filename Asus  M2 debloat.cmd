@@ -11,7 +11,6 @@ adb shell pm uninstall -k --user 0 com.google.android.apps.tachyon
 adb shell pm uninstall -k --user 0 com.google.android.apps.tachyon
 adb shell pm uninstall -k --user 0 com.google.android.apps.wellbeing
 adb shell pm uninstall -k --user 0 com.google.android.calendar 
-adb shell pm uninstall -k --user 0 com.asus.calculator 
 adb shell pm uninstall -k --user 0 com.google.android.apps.docs 
 adb shell pm uninstall -k --user 0 com.google.android.gm
 adb shell pm uninstall -k --user 0 com.google.android.googlequicksearchbox 
